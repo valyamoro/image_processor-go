@@ -30,3 +30,9 @@ go.work.sum
 # Editor/IDE
 .idea/
 .vscode/
+
+# Files
+test_input_sync/
+test_output_sync/
+test_input_async/
+test_output_async/
